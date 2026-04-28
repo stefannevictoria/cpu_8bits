@@ -1,4 +1,4 @@
-# 🖥️ CPU 8 bits teste
+# 🖥️ CPU 8 bits
 
 Este repositório contém a implementação de uma **CPU de arquitetura simplificada de 8 bits**, desenvolvida como atividade ponderada da disciplina de Computação.
 
